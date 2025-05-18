@@ -18,6 +18,7 @@ By the end, they’ll have a **data analysis report with visuals and narrative i
 
 ✅ Communicate findings in a Jupyter Notebook or PDF report
 
+
 ## **🗂️ Project Segments (Step-by-Step Guide)**
 ## **1️⃣ Data Collection**
 * **Goal**: Obtain a reliable COVID-19 dataset.
