@@ -9,13 +9,17 @@ By the end, they’ll have a **data analysis report with visuals and narrative i
 ## **🚩 Project Objectives:**
 
 ✅ Import and clean COVID-19 global data
+
 ✅ Analyze time trends (cases, deaths, vaccinations)
+
 ✅ Compare metrics across countries/regions
+
 ✅ Visualize trends with charts and maps
+
 ✅ Communicate findings in a Jupyter Notebook or PDF report
 
- ## **🗂️ Project Segments (Step-by-Step Guide)**
-### **1️⃣ Data Collection**
+## **🗂️ Project Segments (Step-by-Step Guide)**
+## **1️⃣ Data Collection**
 * **Goal**: Obtain a reliable COVID-19 dataset.
 
 **✅ Data Sources:**
@@ -101,7 +105,7 @@ Handle missing numeric values with `fillna()` or `interpolate()`.
 
 * `seaborn`
 
-*5️⃣ Visualizing Vaccination Progress*
+## *5️⃣ Visualizing Vaccination Progress*
 
 * *Goal:* Analyze vaccination rollouts.
 
@@ -166,8 +170,11 @@ Handle missing numeric values with `fillna()` or `interpolate()`.
 # *🛠️ Recommended Tools:*
 
 ✅ Jupyter Notebook (or VS Code with Jupyter extension)
+
 ✅ pandas
+
 ✅ matplotlib & seaborn
+
 ✅ Optional: plotly, geopandas
 
 
